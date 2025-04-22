@@ -40,16 +40,17 @@ It checks for:
 
 Each satisfied condition adds 1 point to the strength score.
 
-if len(password) < 8:
+```if len(password) < 8:
     remarks.append("Too short (min 8 characters)")
 else:
-    strength += 1
+    strength += 1 ```
 
 Other conditions are checked using re.search(), such as:
-if re.search(r"[A-Z]", password):
+
+```if re.search(r"[A-Z]", password):
     strength += 1
 else:
-    remarks.append("Add uppercase letters")
+    remarks.append("Add uppercase letters")```
 
 2. Rating Logic
 

@@ -112,7 +112,9 @@ password_strength_checker/
 
 Shah Faial
 Beginner in Cybersecurity & Networking | Passionate about building security tools
-[LinkedIn](http://linkedin.com/in/shahfaisalrahim) | GitHub
+[LinkedIn](https://linkedin.com/in/shahfaisalrahim)
+[Link Text](https://example.com)
+ | GitHub
 
 ✅ Future Improvements (Optional Ideas)
 	•	Add a password generator

@@ -122,7 +122,7 @@ password_strength_checker/
 
 ### ✍️ Author
 
-Shah Faial
+#### Shah Faial
 Beginner in Cybersecurity & Networking | Passionate about building security tools
 [LinkedIn](http://linkedin.com/in/shahfaisalrahim) | [GitHub](https://github.com/faisalbrohi/password-strength-checker)
 
